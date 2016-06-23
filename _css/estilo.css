@@ -21,7 +21,11 @@ div#interface{
 header#cabecalho img#icone{
     position: relative;
     left: 87%;
-    top: -40px;
+    top: 40px;
+}
+header#cabecalho {
+    border-bottom: 1px #606060 solid;
+
 }
 
 /* Formatação de imagens com legendas */
